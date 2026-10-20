@@ -847,7 +847,7 @@
                 const t = document.createElement("span");
                 t.className = "hero__letter", t.textContent = e, t.style.setProperty("--i", a), t.style.setProperty("--r", s[a % s.length] + "deg"), t.style.setProperty("--y", i[a % i.length] + "em"), t.dataset.color = a % 4, r.appendChild(t), a += 1
             })), n > 0 && e.appendChild(document.createTextNode(" ")), e.appendChild(r)
-        })), e.addEventListener("click", (function (e) {
+        })), e.classList.add("is-built"), e.addEventListener("click", (function (e) {
             const t = e.target.closest(".hero__letter");
             t && (t.classList.remove("is-jumping"), t.offsetWidth, t.classList.add("is-jumping"))
         })), e.addEventListener("animationend", (function (e) {
