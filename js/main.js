@@ -24,6 +24,46 @@
                 confirm: "Do you really want to quit the game?",
                 heroTitle: "In-Flight Games"
             },
+            de: {
+                btnBack: "Zurück",
+                btnPlay: "Spielen",
+                btnYes: "Ja",
+                btnNo: "No",
+                howPlay: "Über das Spiel",
+                control: "Kontrolle - Berührung.",
+                confirm: "Willst du wirklich aus dem Spiel aussteigen?",
+                heroTitle: "Spiele an Bord"
+            },
+            it: {
+                btnBack: "Indietro",
+                btnPlay: "Giocare",
+                btnYes: "Sí",
+                btnNo: "No",
+                howPlay: "Informazioni sul gioco",
+                control: "Controllo - touch.",
+                confirm: "Vuoi davvero uscire dal gioco?",
+                heroTitle: "Giochi a bordo"
+            },
+            ja: {
+                btnBack: "前へ",
+                btnPlay: "遊ぶ",
+                btnYes: "応",
+                btnNo: "いいえ",
+                howPlay: "試合について",
+                control: "コントロール - タッチ。",
+                confirm: "本当に試合から降りたいのか？",
+                heroTitle: "機内ゲーム"
+            },
+            ko: {
+                btnBack: "이전",
+                btnPlay: "게임",
+                btnYes: "예",
+                btnNo: "아니",
+                howPlay: "게임 정보",
+                control: "컨트롤 - 터치.",
+                confirm: "정말 게임에서 벗어나고 싶으신가요?",
+                heroTitle: "기내 게임"
+            },
             fr: {
                 btnBack: "Précédent",
                 btnPlay: "Jouer",
@@ -67,6 +107,22 @@
                 title: "Checkers",
                 desc: "Checkers is a logical board game for two players in which players move checker pieces across the squares of a checkerboard."
             },
+            de: {
+                title: "Dame",
+                desc: "Dame – ein logisches Brettspiel für zwei Spieler, bei dem man Spielsteine über die Felder eines Damebretts bewegen muss"
+            },
+            it: {
+                title: "Dama",
+                desc: "Il gioco della dama è un gioco da tavolo logico per due giocatori, in cui è necessario spostare le pedine su una scacchiera a caselle."
+            },
+            ja: {
+                title: "チェッカー",
+                desc: "チェッカーは、2人のプレイヤーがチェッカー盤のマス目に駒を移動させる論理的なボードゲームです。"
+            },
+            ko: {
+                title: "체스",
+                desc: "체스 — 두 명의 플레이어가 체스판의 칸을 따라 말(체스 말)을 움직여야 하는 논리적인 보드 게임입니다."
+            },
             fr: {
                 title: "Dames",
                 desc: "Les dames sont un jeu de société logique pour deux joueurs, dans lequel il faut déplacer des pions sur les cases d'un damier."
@@ -90,6 +146,22 @@
             en: {
                 title: "Chess",
                 desc: "Chess is an ancient strategic game for two players in which 32 pieces—16 white and 16 black—battle on a 64-square board. The goal of the game is to checkmate the opponent’s king, trapping it so that it cannot escape."
+            },
+            de: {
+                title: "Schach",
+                desc: "Schach ist ein altes Strategiespiel für zwei Spieler, bei dem 32 Figuren – 16 weiße und 16 schwarze – auf einem Brett mit 64 Feldern gegeneinander antreten. Das Ziel des Spiels ist es, den König des Gegners schachmatt zu setzen, d. h. ihn in eine Falle zu locken, aus der er sich nicht mehr befreien kann."
+            },
+            it: {
+                title: "Scacchi",
+                desc: "Gli scacchi sono un antico gioco strategico per due giocatori, in cui 32 pezzi (16 bianchi e 16 neri) si affrontano su una scacchiera a 64 caselle. Lo scopo del gioco è dare scacco matto al re avversario, ovvero intrappolarlo in una posizione dalla quale non può uscire."
+            },
+            ja: {
+                title: "チェス",
+                desc: "チェスは、2人のプレイヤーが64マスの盤上で32個の駒（白16個、黒16個）を使って戦う、古代から伝わる戦略ゲームです。ゲームの目的は、相手の王を詰ませること、つまり逃げ場のない罠に陥れることです。"
+            },
+            ko: {
+                title: "체커",
+                desc: "체스는 두 명의 플레이어가 64칸의 보드 위에서 32개의 말(16개의 흰 말과 16개의 검은 말)을 움직여 싸우는 고대 전략 게임입니다. 게임의 목표는 상대방의 왕을 체크메이트 상태로 만드는 것, 즉 왕이 빠져나올 수 없는 함정에 가두는 것입니다."
             },
             fr: {
                 title: "Échecs",
@@ -115,6 +187,22 @@
                 title: "Sudoku",
                 desc: "Sudoku is a number puzzle where you have to place the numbers 1 to 9 in a 9x9 square grid so that they do not repeat in each row, column, and 3x3 square."
             },
+            de: {
+                title: "Sudoku",
+                desc: "Sudoku ist ein Zahlenrätsel, bei dem die Zahlen von 1 bis 9 in einem 9x9-Quadrat so angeordnet werden müssen, dass sie sich in jeder Zeile, Spalte und jedem 3x3-Quadrat nicht wiederholen."
+            },
+            it: {
+                title: "Sudoku",
+                desc: "Sudoku è un rompicapo con i numeri in cui bisogna disporre i numeri da 1 a 9 su una griglia quadrata 9x9 in modo che non si ripetano in ogni riga, colonna e quadrato 3x3."
+            },
+            ja: {
+                title: "数独",
+                desc: "数独は、1から9までの数字を9×9の正方形のマスに配置する数字パズルです。各行、各列、および3×3の正方形（ブロック）内で同じ数字が重複しないように配置する必要があります。"
+            },
+            ko: {
+                title: "스도쿠",
+                desc: "스도쿠는 숫자로 된 퍼즐로, 9×9 정사각형 격자 안에 1부터 9까지의 숫자를 배치해야 하며, 각 행, 열, 그리고 3×3 사각형 영역마다 같은 숫자가 중복되지 않도록 해야 합니다."
+            },
             fr: {
                 title: "Sudoku",
                 desc: "Le sudoku est un casse-tête mathématique dans lequel il faut placer les chiffres de 1 à 9 dans une grille carrée de 9x9 cases, de manière à ce qu'ils ne se répètent pas dans chaque ligne, chaque colonne et chaque carré de 3x3 cases."
@@ -138,6 +226,22 @@
             en: {
                 title: "Crossword Puzzles",
                 desc: "Do you like puzzles? Then crossword puzzles are for you! There are plenty of puzzles to solve, covering a variety of topics and difficulty levels. Sharpen your logic, memory, and general knowledge with this fun game."
+            },
+            de: {
+                title: "Kreuzworträtsel",
+                desc: "Magst du Rätsel? Dann sind Kreuzworträtsel genau das Richtige für dich! Zahlreiche Aufgaben, verschiedene Themen und Schwierigkeitsgrade. Trainiere dein logisches Denken, dein Gedächtnis und dein Allgemeinwissen in diesem spannenden Spiel."
+            },
+            it: {
+                title: "Cruciverba",
+                desc: "Ti piacciono i rompicapo? Allora i cruciverba fanno per te! Tante sfide con temi diversi e vari livelli di difficoltà. Allena logica, memoria ed erudizione con questo gioco coinvolgente."
+            },
+            ja: {
+                title: "クロスワードパズル",
+                desc: "パズルが好きですか？それならクロスワードがおすすめ！豊富な問題、多彩なテーマ、さまざまな難易度を収録。楽しく遊びながら、論理力・記憶力・知識を鍛えましょう。"
+            },
+            ko: {
+                title: "십자말풀이",
+                desc: "퍼즐을 좋아하시나요? 그렇다면 십자말풀이 퍼즐이 여러분께 딱 맞습니다! 다양한 주제와 난이도의 수많은 퍼즐이 준비되어 있습니다. 재미있게 게임을 즐기며 논리력, 기억력을 비롯하여 교양을 키워보세요."
             },
             fr: {
                 title: "Mots croisés",
@@ -163,6 +267,22 @@
                 title: "Spacecraft: War of the Ships",
                 desc: "A fast-paced space arcade game where you pilot a modular ship and battle enemies. Collect new parts, upgrade your weapons, enhance your ship, complete levels, and turn it into a powerful battle station!"
             },
+            de: {
+                title: "Spacecraft: Der Krieg der Raumschiffe",
+                desc: "Ein dynamisches Weltraum-Arcade-Spiel, in dem du ein modulares Raumschiff steuerst und gegen Feinde kämpfst. Sammle neue Teile, verbessere deine Waffen, rüste dein Raumschiff auf, meistere die Level und verwandle es in eine mächtige Kampfstation!"
+            },
+            it: {
+                title: "Spacecraft: Guerra nello spazio",
+                desc: "Un arcade spaziale dinamico dove controlli un’astronave modulare e combatti contro i nemici. Raccogli nuovi componenti, potenzia le armi, rinforza la nave, supera i livelli e trasforma la nave in una potente stazione da combattimento!"
+            },
+            ja: {
+                title: "スペースクラフト：宇宙船戦争",
+                desc: "モジュール式の宇宙船を操り、敵と戦うダイナミックな宇宙アーケードゲーム。新しいパーツを集めて武器を強化し、宇宙船を強力な戦闘ステーションへと進化させましょう！ "
+            },
+            ko: {
+                title: "Spacecraft: 우주선 전쟁",
+                desc: "모듈식 우주선을 조종하며 적들과 싸우는 역동적인 우주 아케이드 게임입니다. 새로운 부품을 수집해 무기와 함선을 강화하고, 레벨을 클리어하여 나만의 우주선을 강력한 전투 기지로 만들어 보세요!"
+            },
             fr: {
                 title: "Spacecraft: La guerre des vaisseaux",
                 desc: "Un jeu d'arcade spatial dynamique où vous pilotez un vaisseau modulaire et combattez des ennemis. Collectez de nouvelles pièces, améliorez vos armes, renforcez votre vaisseau, passez des niveaux et transformez-le en une puissante station de combat!"
@@ -186,6 +306,22 @@
             en: {
                 title: "Tank Attack 5",
                 desc: "An action game featuring tank battles! Buy and upgrade your tanks, take on arcade-style battles, defend your base, fight bosses, and unlock new tanks, camouflage patterns, and locations."
+            },
+            de: {
+                title: "Tank Attack 5",
+                desc: "Ein Action-Spiel rund um Panzerschlachten! Kaufe und verbessere deine Kampftechnik, bestreite Arcade-Kämpfe, verteidige deine Basis, kämpfe gegen Bosse und schalte neue Panzer, Tarnungen und Schauplätze frei."
+            },
+            it: {
+                title: "Tank Attack 5",
+                desc: "Un action game sulle battaglie tra carri armati! Acquista e potenzia i mezzi da combattimento, affronta battaglie arcade, difendi la base, combatti contro i boss e sblocca nuovi carri armati, mimetiche e ambientazioni."
+            },
+            ja: {
+                title: "タンクアタック5",
+                desc: "戦車バトルを楽しめるアクションゲーム！戦車を購入・強化し、アーケードバトルに挑戦。基地を守り、ボスと戦い、新しい戦車や迷彩、ステージをアンロックしましょう。"
+            },
+            ko: {
+                title: "Tank Attack 5",
+                desc: "전차 액션 게임입니다! 전투 장비를 구매하고 업그레이드하며, 아케이드 전장을 누비며 기지를 사수하세요. 보스를 물리치면서 새로운 전차, 스킨, 맵을 해금하세요."
             },
             fr: {
                 title: "Tank Attack 5",
@@ -211,6 +347,22 @@
                 title: "Trampoline Basketball",
                 desc: "Welcome to the exciting world of trampoline basketball! Jump, aim, and shoot into the red baskets to reach the finish line. Complete levels, unlock new challenges, and try to score as many points as possible for accuracy and speed."
             },
+            de: {
+                title: "Basketball auf Trampolinen",
+                desc: "Willkommen in der aufregenden Welt des Trampolin-Basketballs! Spring, ziele und triff die roten Eimer, um bis zur Ziellinie zu gelangen. Spiele die Levels durch, schalte neue Herausforderungen frei und versuche, möglichst viele Punkte für Genauigkeit und Geschwindigkeit zu sammeln."
+            },
+            it: {
+                title: "Trampoline Basketball",
+                desc: "Benvenuto nell’emozionante mondo del basket sui trampolini! Salta, mira e centra i secchi rossi per raggiungere il traguardo. Supera i livelli, sblocca nuove sfide e cerca di ottenere il massimo dei punti grazie a precisione e velocità."
+            },
+            ja: {
+                title: "トランポリンバスケットボール",
+                desc: "エキサイティングなトランポリンバスケットボールの世界へようこそ！ジャンプして狙いを定め、赤いバケツにボールを入れてゴールを目指しましょう。ステージをクリアして新たなチャレンジを解放し、正確さとスピードでハイスコアを目指してください。"
+            },
+            ko: {
+                title: "트램펄린 농구",
+                desc: "트램펄린 농구의 짜릿한 세계에 오신 것을 환영합니다! 점프하고, 조준하고, 빨간 버킷에 공을 넣어서 결승선까지 도달하세요. 레벨을 클리어하여 새로운 도전을 잠금 해제하고, 정확도와 속도를 발휘해 최고 점수를 획득하도록 노력해 보세요."
+            },
             fr: {
                 title: "Basketball sur trampoline",
                 desc: "Bienvenue dans l'univers passionnant du basketball sur trampoline! Sautez, visez et touchez les seaux rouges pour arriver en finale. Passez les niveaux, débloquez de nouveaux défis et tâchez de marquer un maximum de points pour précision et rapidité."
@@ -234,6 +386,22 @@
             en: {
                 title: "Dominoes",
                 desc: "A classic game with simple rules and easy-to-understand controls. Place your dominoes, choose the best moves, block your opponents, and try to be the first to get rid of all your dominoes."
+            },
+            de: {
+                title: "Domino",
+                desc: "Ein klassisches Spiel mit einfachen Regeln und intuitiver Steuerung. Lege die Dominosteine aus, wähle die besten Züge aus, blockiere deine Gegner und versuche, als Erster alle Dominosteine loszuwerden."
+            },
+            it: {
+                title: "Domino",
+                desc: "Un classico con regole semplici e comandi intuitivi. Gioca le tessere, scegli le mosse migliori, blocca gli avversari e cerca di liberarti per primo di tutte le tessere."
+            },
+            ja: {
+                title: "ドミノ",
+                desc: "シンプルなルールと分かりやすい操作が魅力の定番ドミノゲーム。タイルを配置し、最善の一手を考え、相手をブロックしながら、誰よりも早く手持ちのドミノをなくしましょう。"
+            },
+            ko: {
+                title: "도미노 ",
+                desc: "규칙이 간단하고 조작법이 직관적인 고전 게임입니다. 패를 내려놓으며 가장 좋은 수를 골라내고, 상대를 막아내면서 누구보다 빠르게 여러분의 도미노를 모두 털어내 보세요."
             },
             fr: {
                 title: "Dominos",
@@ -259,6 +427,22 @@
                 title: "Get the Screw - Puzzle",
                 desc: "Unscrew the bolts, remove the parts, and figure out the right sequence! Each level gets harder and requires attention to detail and logical thinking. Simple controls, challenging puzzles—fun for all ages!"
             },
+            de: {
+                title: "Hol die Schraube heraus – Rätsel",
+                desc: "Drehe die Schrauben heraus, löse die Teile und finde die richtige Reihenfolge! Jedes Level wird schwieriger und erfordert Aufmerksamkeit und logisches Denken. Einfache Steuerung, knifflige Rätsel – ein Spielspaß für alle Altersgruppen!"
+            },
+            it: {
+                title: "Rompicapo delle viti incastrate",
+                desc: "Svita le viti, libera i componenti e trova la sequenza giusta! Ogni livello diventa progressivamente più impegnativo, richiedendo attenzione e logica. Comandi semplici, enigmi complessi: divertimento per tutte le età!"
+            },
+            ja: {
+                title: "ネジを外せ！パズル",
+                desc: "ネジを外し、パーツを解放し、正しい手順を見つけましょう！ステージが進むごとに難易度が上がり、注意力と論理力が試されます。簡単操作で奥深い謎解きを楽しめる、誰でも遊べるパズルゲームです！"
+            },
+            ko: {
+                title: "나사 뽑기 - 퍼즐",
+                desc: "나사를 풀고, 부품을 분리하면서 올바른 순서를 찾아보세요! 레벨이 올라갈수록 난이도가 높아지므로 집중력과 논리적 사고력이 필요합니다. 간편한 조작과 정교한 퍼즐로 모든 연령대가 즐길 수 있는 게임입니다!"
+            },
             fr: {
                 title: "Enlève une vis - Casse-tête",
                 desc: "Dévissez des vis, retirez des pièces et trouvez la bonne séquence de mouvements! Chaque niveau est encore plus difficile et exige de la concentration et de la logique. Des commandes simples, des énigmes complexes: un jeu passionnant pour tous les âges!"
@@ -282,6 +466,22 @@
             en: {
                 title: "Motorcycling: Motorcycle Racer",
                 desc: "A fast-paced racing game where you speed down the roads, dodge other vehicles, and try to go as far as possible. Upgrade your car's performance and test your reflexes in high-speed races!"
+            },
+            de: {
+                title: "Motorradfahren: Motorradrennfahrer",
+                desc: "Ein dynamisches Rennspiel, in dem du über die Straßen rast, andere Fahrzeuge überholst und versuchst, so weit wie möglich zu kommen. Verbessere deine Werte und teste deine Reaktion in rasanten Rennen!"
+            },
+            it: {
+                title: "Corse in moto: Il pilota",
+                desc: "Un gioco di corse dinamico dove sfrecci sulle strade, superi i veicoli e cerchi di andare il più lontano possibile. Migliora le prestazioni e metti alla prova i tuoi riflessi nelle gare ad alta velocità!"
+            },
+            ja: {
+                title: "バイクライド：モトレーサー",
+                desc: "道路を駆け抜け、車を避けながらできるだけ遠くまで走る爽快バイクレースゲーム。バイクの性能を強化し、ハイスピードなレースで反射神経を試しましょう！"
+            },
+            ko: {
+                title: "오토바이 운전: 모터레이서",
+                desc: "도로를 질주하며 다른 차량을 피하고, 가능한 한 멀리까지 달려나가는 역동적인 레이싱 게임입니다. 성능을 향상시키고 초고속 주행을 즐기면서 여러분의 순발력을 확인해 보세요!"
             },
             fr: {
                 title: "La course moto: Le motard",
@@ -307,6 +507,22 @@
                 title: "The Dream Room: Arranging the Furniture",
                 desc: "A relaxing game about organization and coziness. Arrange furniture, put items in their places, and create the room of your dreams. Simple controls, a pleasant atmosphere, and laid-back gameplay for all ages!"
             },
+            de: {
+                title: "Das Traumzimmer: Einrichtung nach Wunsch",
+                desc: "Ein entspannendes Spiel rund um Ordnung und Gemütlichkeit. Stelle die Möbel auf, ordne die Gegenstände an ihren Plätzen an und gestalte deinen Traumraum. Einfache Steuerung, angenehme Atmosphäre und entspanntes Gameplay für alle Altersgruppen!"
+            },
+            it: {
+                title: "Stanza dei sogni: riorganizzazione degli oggetti",
+                desc: "Un gioco rilassante dedicato all’ordine e al comfort. Disponi i mobili, sistema gli oggetti al loro posto e crea la stanza dei tuoi sogni. Comandi semplici, atmosfera piacevole e gameplay rilassante per tutte le età!"
+            },
+            ja: {
+                title: "ドリームルーム：アイテム配置",
+                desc: " 整理整頓と癒やしがテーマのリラックスゲーム。 家具を配置し、アイテムを片付けて理想のお部屋を作りましょう。簡単操作と心地よい雰囲気で、誰でものんびり楽しめます！"
+            },
+            ko: {
+                title: "꿈의 방: 가구 배치",
+                desc: "정리와 아늑함을 주제로 한 편안한 게임입니다. 가구를 배치하고, 물건들을 제자리에 놓으며 꿈에 그리던 방을 만들어 보세요. 간편한 조작법, 즐거운 분위기로 모든 연령대가 즐길 수 있는 여유로운 게임입니다!"
+            },
             fr: {
                 title: "La chambre de mes rêves: je de rangement",
                 desc: "Un jeu apaisant sur l'ordre et le confort. Disposez des meubles, rangez des objets et créez une pièce de vos rêves. Des commandes simples, une ambiance agréable et un gameplay tranquille pour tous les âges!"
@@ -330,6 +546,22 @@
             en: {
                 title: "Find the Treasure - Match 3",
                 desc: "A vibrant game where you have to make combinations, complete levels, and search for unusual treasures. Use bonuses, plan your moves, and set off on an adventure through hundreds of exciting challenges!"
+            },
+            de: {
+                title: "Finde die Schätze – Drei in einer Reihe",
+                desc: "Ein farbenfrohes Spiel, bei dem man Kombinationen bilden, Level meistern und nach ungewöhnlichen Schätzen suchen muss. Nutze die Boni, überlege dir deine Züge gut und begib dich auf ein Abenteuer durch Hunderte spannender Herausforderungen!"
+            },
+            it: {
+                title: "Trova i tesori - Tre di fila",
+                desc: "Un gioco vivace dove devi creare combinazioni, superare livelli e cercare tesori insoliti. Usa i bonus, pianifica le mosse e parti per un’avventura tra centinaia di sfide appassionanti!"
+            },
+            ja: {
+                title: "宝探し：マッチ3",
+                desc: "組み合わせを作ってステージをクリアし、不思議な宝物を探すカラフルなパズルゲーム。ブースターを活用し、戦略を練りながら、何百もの楽しいステージを冒険しましょう！"
+            },
+            ko: {
+                title: "보물 찾기 - 3 매치 퍼즐",
+                desc: "조합을 완성하고, 레벨을 클리어하며, 독특한 보물을 찾아야 하는 화려한 게임입니다. 다양한 보너스 아이템을 활용하고, 전략을 세우며, 수백 가지의 흥미진진한 시련을 헤쳐 나가는 모험을 떠나보세요!"
             },
             fr: {
                 title: "La chasse aux trésors - Match 3",
@@ -355,6 +587,22 @@
                 title: "Escape from the Portal",
                 desc: "You're stuck between worlds. Explore the catacombs, avoid traps, solve puzzles, and battle monsters. Find a way to activate the portal and escape!"
             },
+            de: {
+                title: "Die Flucht aus dem Portal",
+                desc: "Du steckst zwischen zwei Welten fest. Erkunde die Katakomben, weiche den Fallen aus, löse Rätsel und kämpfe gegen Monster. Find einen Weg, das Portal zu aktivieren und zu entkommen!"
+            },
+            it: {
+                title: "Fuga dal Portale",
+                desc: "Sei rimasto intrappolato tra due mondi. Esplora le catacombe, evita le trappole, risolvi enigmi e combatti contro i mostri. Trova il modo di attivare il portale ed evadere!"
+            },
+            ja: {
+                title: "ポータルからの脱出",
+                desc: "あなたは世界と世界の狭間に閉じ込められてしまいました。地下迷宮を探索し、罠を避け、謎を解き、モンスターと戦いましょう。ポータルを起動して脱出する方法を見つけよう！"
+            },
+            ko: {
+                title: "포털 탈출",
+                desc: "여러분은 두 세계 사이에 갇혀 있습니다. 지하 미궁을 탐험하며 함정을 피하고, 퍼즐을 풀어 몬스터들을 물리치세요. 포털을 활성화하고 탈출할 방법을 찾아보세요!"
+            },
             fr: {
                 title: "Portal Escape",
                 desc: "Vous êtes coincé entre deux mondes. Explorez les catacombes, évitez les pièges, résolvez des énigmes et affrontez des monstres. Trouvez un moyen d'activer le portail pour vous échapper!"
@@ -378,6 +626,22 @@
             en: {
                 title: "Gas Station Simulator - Stickman",
                 desc: "A fun game about building your own gas station. Serve customers, upgrade your station, open a store, a café, and new areas, hire assistants, and turn your small gas station into a profitable business!"
+            },
+            de: {
+                title: "Tankstellen-Simulator – Stickman",
+                desc: "Ein unterhaltsames Spiel, bei dem du deine eigene Tankstelle aufbaust und entwickelst. Warte die Fahrzeuge, verbessere die Tankstelle, eröffne einen Laden, ein Café und neue Bereiche, stelle Mitarbeiter ein und verwandle die kleine Tankstelle in ein profitables Unternehmen!"
+            },
+            it: {
+                title: "Gas Station - Stick Simulator",
+                desc: "Un gioco divertente sulla gestione della propria stazione di servizio. Servi le auto, migliora la stazione, apri negozio, caffetteria e nuove aree, assumi aiutanti e trasforma una piccola stazione in un’attività redditizia!"
+            },
+            ja: {
+                title: "ガソリンスタンドシミュレーター：スティックマン",
+                desc: "自分のガソリンスタンドを経営する楽しいゲームです。車をサービスし、スタンドをアップグレードし、ショップやカフェ、新エリアを開設してスタッフを雇い、小さなガソリンスタンドを収益性の高いビジネスに成長させよう！"
+            },
+            ko: {
+                title: "주유 시뮬레이터 - 스틱맨",
+                desc: "자신만의 주유소를 운영해 나가는 재미있는 게임입니다. 차량을 정비하고, 주유소를 개선하며, 상점과 카페, 새로운 구역을 개설하고, 직원을 고용하여 작은 주유소를 수익성 높은 사업으로 키워보세요!"
             },
             fr: {
                 title: "Jeu de simulation station-service - Stickman",
@@ -403,6 +667,22 @@
                 title: "Your Dinosaur Farm",
                 desc: "A game where you build and grow your own dinosaur farm. Take care of prehistoric creatures, expand your territory, discover new species, and turn your farm into a real dinosaur park."
             },
+            de: {
+                title: "Deine Dinosaurierfarm",
+                desc: "Ein Spiel, in dem du deine eigene Dinosaurierfarm aufbaust und weiterentwickelst. Kümmere dich um prähistorische Lebewesen, erweitere dein Territorium, entdecke neue Arten und verwandle deine Farm in einen echten Dinosaurierpark."
+            },
+            it: {
+                title: "La tua fattoria di dinosauri",
+                desc: "Un gioco in cui crei e sviluppi la tua fattoria di dinosauri. Prenditi cura delle creature preistoriche, amplia il territorio, scopri nuove specie e trasforma la fattoria in un vero parco dei dinosauri."
+            },
+            ja: {
+                title: "恐竜ファーム",
+                desc: "自分だけの恐竜ファームを作り上げる育成ゲームです。太古の生き物たちのお世話をし、土地を広げ、新しい種類の恐竜を発見して、本格的な恐竜パークへと発展させましょう。"
+            },
+            ko: {
+                title: "나만의 공룡 농장",
+                desc: "공룡과 함께 나만의 농장을 건설하고 발전시켜 나가는 게임입니다. 선사 시대의 생물들을 돌보고, 영토를 확장하며, 새로운 종을 발견하면서 농장을 진정한 공룡 공원으로 만들어 보세요."
+            },
             fr: {
                 title: "Ta ferme de dinosaures",
                 desc: "Un jeu pour construire son exploitation et élever des dinosaures. Prenez soin de créatures préhistoriques, agrandissez votre domaine, découvrez de nouvelles espèces et transformez votre ferme en un véritable parc de dinosaures."
@@ -426,6 +706,22 @@
             en: {
                 title: "Ball Shooting",
                 desc: "Pop the bubbles with well-aimed shots! Make combinations, burst the glass bubbles, and beat the levels. The bubble army won't stand a chance!"
+            },
+            de: {
+                title: "Kugelschießen",
+                desc: "Zerschieße die Bälle mit gezielten Schüssen! Bilde Kombinationen, zerplatze die Glasblasen und meistere die Level. Die Blasenarmee wird nicht standhalten!"
+            },
+            it: {
+                title: "Bubble Shooter",
+                desc: "Fai scoppiare le palline con tiri precisi! Crea combinazioni, rompi bolle di vetro e supera i livelli. L’esercito delle bolle non resisterà!"
+            },
+            ja: {
+                title: "バブルシューター",
+                desc: "狙いを定めてバブルをはじこう！コンボを作り、ガラスのバブルを壊してステージをクリア。バブル軍団に勝利しましょう！"
+            },
+            ko: {
+                title: "버블 슈터",
+                desc: "정확한 사격으로 풍선을 터뜨리세요! 조합을 만들어 유리 방울을 터뜨리고 레벨을 클리어하세요. 거품 군대는 버텨내지 못할 것입니다!"
             },
             fr: {
                 title: "Bubble Shooter",
@@ -451,6 +747,22 @@
                 title: "Billiards",
                 desc: "Test your accuracy, calculate your shots, and become a master of billiards."
             },
+            de: {
+                title: "Billard",
+                desc: "Testen Sie Ihre Präzision, planen Sie Ihre Stöße und werden Sie zum Billardmeister."
+            },
+            it: {
+                title: "Biliardo",
+                desc: "Metti alla prova la tua precisione, calcola i tuoi colpi e diventa un maestro del biliardo."
+            },
+            ja: {
+                title: "ビリヤード",
+                desc: "正確さを試し、一打一打を計算して、ビリヤードの達人を目指しましょう。"
+            },
+            ko: {
+                title: "당구",
+                desc: "정확도를 시험하고, 샷을 계산하며, 당구의 달인이 되어 보세요."
+            },
             fr: {
                 title: "Billard",
                 desc: "Testez votre précision, calculez vos coups et devenez un maître du billard."
@@ -474,6 +786,22 @@
             en: {
                 title: "Backgammon",
                 desc: "A game for two players. The objective is to roll the dice and move your checkers according to the numbers rolled, bringing all your checkers into the designated area of the board before your opponent."
+            },
+            de: {
+                title: "Backgammon",
+                desc: "Ein Spiel für zwei Spieler. Ziel des Spiels ist es, die Würfel zu werfen und die Spielsteine entsprechend den gewürfelten Zahlen zu ziehen, um alle eigenen Spielsteine vor dem Gegner in den Zielbereich des Spielbretts zu bringen."
+            },
+            it: {
+                title: "Backgammon",
+                desc: "Un gioco per due giocatori. L'obiettivo è lanciare i dadi e muovere le proprie pedine in base ai risultati ottenuti, portando tutte le pedine nell'area di arrivo prima dell'avversario."
+            },
+            ja: {
+                title: "バックギャモン",
+                desc: "2人用のゲームです。サイコロを振り、出た目に従って駒を動かし、相手より先に自分の駒をすべて所定のエリアへ運ぶことが目的です。"
+            },
+            ko: {
+                title: "백개먼",
+                desc: "2인용 게임입니다. 주사위를 굴리고 나온 숫자에 따라 말을 이동하여, 상대보다 먼저 자신의 모든 말을 목표 구역으로 옮기는 것이 목표입니다."
             },
             fr: {
                 title: "Backgammon",
